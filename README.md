@@ -1,6 +1,9 @@
 # dbsearch
 
-A new Flutter project.
+A Simple Flutter Project that performs CRUD operation on SQLite(Local Database). Bloc is  Used for state managaemnt
+
+## Screenshots 
+<img  src="https://raw.githubusercontent.com/itsmeabhi12/SQLite-CRUD-BLoc-Flutter/main/sc/Screenshot_1644589247.png" width="300"/> <img  src="https://raw.githubusercontent.com/itsmeabhi12/SQLite-CRUD-BLoc-Flutter/main/sc/Screenshot_1644589257.png" width="300"/><img src="https://raw.githubusercontent.com/itsmeabhi12/SQLite-CRUD-BLoc-Flutter/main/sc/Screenshot_1644589272.png" width="300"/><img src="https://raw.githubusercontent.com/itsmeabhi12/SQLite-CRUD-BLoc-Flutter/main/sc/Screenshot_1644589281.png" width="300"/>
 
 ## Getting Started
 
